@@ -62,7 +62,7 @@ Karen Rader, Making Mice, excerpts
 Haraway, Modest_Witness@ … Meets OncoMouse
 Primary source?
 
-
+![alt text](images/oncomouse.jpeg "Logo Title Text 1")
 
 M Oct 14: 
 
