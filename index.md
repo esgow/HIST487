@@ -1,5 +1,8 @@
 ---
-title: Herring Cove
+layout: index
+title: Welcome
 ---
-{% include showcase.html %}
-{% include_relative syllabus.md %}
+
+# Syllabus
+
+Here is the content of the syllabus
