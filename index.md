@@ -1,8 +1,6 @@
 ---
 layout: index
-title: Welcome
+title: Course Syllabus
 ---
-
-# Syllabus
 
 Here is the content of the syllabus
