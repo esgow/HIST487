@@ -18,3 +18,8 @@ defaults:
       type: "pages"
     values:
       layout: "default"
+  - scope:
+      path: "index.md"
+      type: "pages"
+    values:
+      layout: "index"
