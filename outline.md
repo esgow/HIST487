@@ -1,30 +1,30 @@
 # Course Outline
 
 
-Thursday Sept 5: Course Intro – “Why Look at Animals?”
+Thursday, Sept 5: <em class="u">Course Introduction – “Why Look at Animals?"</em>
 
 Read: 
-* Berger, “Why Look at Animals?” from *About Looking* p.
+* Berger, “Why Look at Animals?” from *About Looking* 1977, 1-28
 
-### Unit 1: Categorizing
+#### Unit 1: Categorizing
 
-M Sept 9: Humans and Other Animals in the Enlightenment and Beyond
+Monday, Sept 9: Humans and Other Animals in the Enlightenment and Beyond
 
-Th Sept 12 Reading:
+Thursday, Sept 12 Reading:
 *	Ch from Ritvo? 
-•	OR Indigenous thought on ontologies… Vanessa Watts and/or Zoe Todd + Tallbear?
-•	Michel Foucault, The Order of Things, Chapter 5 “Classifying”
-•	Thomas Bewick, A General History of Quadrapeds 1790 pgs TBA
+*	OR Indigenous thought on ontologies… Vanessa Watts and/or Zoe Todd + Tallbear?
+*	Michel Foucault, The Order of Things, Chapter 5 “Classifying”
+*	Thomas Bewick, A General History of Quadrapeds 1790 pgs TBA
 
 Further reading:
 Zakkiyah Jackson
 
-M Sept 16: Species, Race, Science, Colonialism
+Monday, Sept 16: Species, Race, Science, Colonialism
 
-Th Sept 19 Readings:
-•	Aime Cesaire Discourse on Colonialism 
-•	something from critical race reader? Zakiyyah Jackson here?
-•	Darwin [[later work? Entries from Beagle?]]
+Th Sept 19 Reading:
+*	Aime Cesaire Discourse on Colonialism 
+*	something from critical race reader? Zakiyyah Jackson here?
+*	Darwin [[later work? Entries from Beagle?]]
 
 [[something about museums, zoos, and domestication??]]
 
