@@ -142,6 +142,10 @@ p
   text-decoration:none
 }
 
+.sidebar-nav li a[href^='http']{
+    display:inline;
+}
+
 .sidebar-nav li a:hover
 {
   color:#000;
