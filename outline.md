@@ -1,14 +1,23 @@
 # Course Outline
 
+#### Introduction
+
+
+Week 1
 
 Thursday, Sept 5: <em class="u">Course Introduction – “Why Look at Animals?"</em>
 
 Read: 
 * Berger, “Why Look at Animals?” from *About Looking* 1977, 1-28
 
+
 #### Unit 1: Categorizing
 
-Monday, Sept 9: Humans and Other Animals in the Enlightenment and Beyond
+
+Week 2
+
+Monday, Sept 9: <em class="u">Humans and Other Animals in the Enlightenment and Beyond</em>
+
 
 Thursday, Sept 12 Reading:
 *	Ch from Ritvo? 
@@ -19,9 +28,13 @@ Thursday, Sept 12 Reading:
 Further reading:
 Zakkiyah Jackson
 
-Monday, Sept 16: Species, Race, Science, Colonialism
 
-Th Sept 19 Reading:
+Week 3
+
+Monday, Sept 16: <em class="u">Species, Race, Science, Colonialism</em>
+
+
+Thursday Sept 19 Reading:
 *	Aime Cesaire Discourse on Colonialism 
 *	something from critical race reader? Zakiyyah Jackson here?
 *	Darwin [[later work? Entries from Beagle?]]
@@ -29,106 +42,133 @@ Th Sept 19 Reading:
 [[something about museums, zoos, and domestication??]]
 
 
-M Sept 23: Physiology and Vivisection – Darwin/Imperialism
+Week 4
+
+Monday Sept 23:<em class="u">Physiology and Vivisection – Darwin/Imperialism</em>
 
 
-Th Sept 26: 
--H.G. Wells The Island of Dr. Moreau
+Th Sept 26 Reading: 
+* H.G. Wells, *The Island of Dr. Moreau*
 
 
-Unit 2: Breeding
-
-M Sept 30 – Fanciers and Stock-Improvers: Animal Breeding and Eugenics
+#### Unit 2: Breeding
 
 
-Th Oct 3
-Michel Foucault – College de France lectures – biopower
-Nicole Shukin – Animal Capital: Rendering Life in Biopolitical Times, exerpts
-Some sort of breeding manual?
-Chapter from Margaret Derry?
-Chapters from Rebecca Woods, The Herds Shot Round the World: Native Breeds and the British Empire 1800-1900
-Bakewell?
-Galton?
+Week 5
 
-M Oct 7: Making “Model Organisms” and “Industrial Organisms”: Genetic Manipulation, Colonialism, and Feminist Technoscience
-[[talk about Mendelian genetics here]]
+Monday, Sept 30: <em class="u">Fanciers and Stock-Improvers: Animal Breeding and Eugenics</em>
 
-Th Oct 10: 
-Tiago Saraiva, Fascist Pigs, excerpts
-Biopower?
-Fox-Keller
 
-Karen Rader, Making Mice, excerpts
-Haraway, Modest_Witness@ … Meets OncoMouse
-Primary source?
+Thursday, Oct 3 Reading:
+* Michel Foucault – College de France lectures – biopower
+* Nicole Shukin – Animal Capital: Rendering Life in Biopolitical Times, exerpts
+* Some sort of breeding manual?
+* Chapter from Margaret Derry?
+* Chapters from Rebecca Woods, The Herds Shot Round the World: Native Breeds and the British Empire 1800-1900
+* Bakewell?
+* Galton?
+
+
+Week 6
+
+Monday, Oct 7: <em class="u">Making “Model Organisms” and “Industrial Organisms”: Genetic Manipulation, Colonialism, and Feminist Technoscience</em>
+
+
+Thursday, Oct 10 Reading: 
+* Tiago Saraiva, Fascist Pigs, excerpts
+* Biopower?
+* Fox-Keller
+
+* Karen Rader, Making Mice, excerpts
+* Haraway, Modest_Witness@ … Meets OncoMouse
+* Primary source?
 
 ![alt text](images/oncomouse.jpeg "Logo Title Text 1")
 
-M Oct 14: 
+
+Week 7
+
+Monday, Oct 14: <em class="u">??</em>
 
 
+Thursday, Oct 17 Reading:
+* ?
+* ?
+* ?
 
-Th Oct 17:
-
-Unit 3: Backbreeding
-
-M Oct 21: Conservation Biopolitics, Rewilding, De-Extinction
-
-
-Th Oct 24: 
-Jamie Lorimer – Heck Cattle
-[[other articles]] –monstrous animal bodies??? Or maybe this pairs with Jurassic Park?? – or maybe this is a recommended research topic…
-Loo?
+#### Unit 3: Backbreeding
 
 
-M Oct 28: OSV
+Week 8
+
+Monday, Oct 21: <em class="u">Conservation Biopolitics, Rewilding, De-Extinction</em>
 
 
-Th Oct 31: Read Magelssen [[and maybe something about live animals in zoos]]
+Thursday, Oct 24 Reading: 
+* Jamie Lorimer – Heck Cattle
+* [[other articles]] –monstrous animal bodies??? Or maybe this pairs with Jurassic Park?? – or maybe this is a recommended research topic…
+* Loo?
+
+
+Week 9
+
+Monday, Oct 28: <em class="u">Heritage Breeds and Colonial Nostalgia</em>
+ 
+
+Thursday, Oct 31 Reading: 
+* Magelssen [[and maybe something about live animals in zoos]]
 
 [[assignment due?]]
 
-Unit 3: Cloning
+#### Unit 3: Cloning
 
-M Nov 4: Genetics: Recombinant DNA - Human Genome Project + Identity
+Week 10
 
-
-Th Nov 7: Reading:
-Fox-Keller - Intro
-Tallbear “Genomic Articulations of Indigeneity”
-Wailoo,Keith, Nelson,Alondra, Lee,Catherine, Genetics and the Unsettled Past Intro
-Mybe another piece that keeps us grounded in animals….
+Monday, Nov 4: <em class="u">Genetics: Recombinant DNA - Human Genome Project + Identity</em>
 
 
 
-M Nov 11 [[LONG WEEKEND]]
+Thursday, Nov 7 Reading:
+* Fox-Keller - Intro
+* Tallbear “Genomic Articulations of Indigeneity”
+* Wailoo,Keith, Nelson,Alondra, Lee,Catherine, *Genetics and the Unsettled Past* Intro
+* Mybe another piece that keeps us grounded in animals….
 
 
-Th Nov 14: Read:
-Sarah Franklin, Dolly Mixtures: Remaking Genealogy [whole book]
-Some sort of primary source?
+Week 11
 
-M Nov 18: Jurassic Park viewing party
+Monday, Nov 11 [[LONG WEEKEND - NO CLASS]]
 
 
-Th Nov 21: Read: 
-•	Svetlana Boym, The Future of Nostalgia
-•	Anonymous, “There is no Unauthorized Breeding in Jurassic Park: Gender and the Uses of Genetics,” Women and Language: WL; Urbana  Vol. 25, Iss. 1,  (Spring 2002)
+Th Nov 14 Reading:
+* Sarah Franklin, *Dolly Mixtures: Remaking Genealogy* [whole book]
+* Some sort of primary source?
 
 
-Course Conclusion:
+Week 12
 
-M Nov 25: Animal Rights and the Liberal Self 
+Monday, Nov 18: <em class="u">*Jurassic Park* viewing party</em>
 
 
-Th Nov 28
-Donaldson and Kymlicka, Zoopolis: A Political Theory of Animal Rights, excerpts 
-Billy-Ray Belcourt, 
-Paul Nadasdy, Hunters and Bureaucrats, excerpts
+Thursday Nov 21 Reading: 
+*	Svetlana Boym, *The Future of Nostalgia*
+* Anonymous, “There is no Unauthorized Breeding in Jurassic Park: Gender and the Uses of Genetics,” Women and Language: WL; Urbana  Vol. 25, Iss. 1,  (Spring 2002)
 
-M Dec 2: “And Say the Animal Responded?”
 
-Read: Derrida, “The Animal That Therefore I am”
+Week 13
+
+#### Course Conclusion:
+
+Monday, Nov 25:  <em class="u">Animal Rights and the Liberal Self </em>
+
+
+Thursday, Nov 28 Reading:
+* Donaldson and Kymlicka, Zoopolis: A Political Theory of Animal Rights, excerpts 
+* Billy-Ray Belcourt, 
+* Paul Nadasdy, Hunters and Bureaucrats, excerpts
+
+Monday, December 2: “And Say the Animal Responded?”
+* Read: Derrida, “The Animal That Therefore I am”
 
 [[mix n’ match assignment due?]]
 
