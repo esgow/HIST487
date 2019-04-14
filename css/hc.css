@@ -277,11 +277,16 @@ pre
   font-size:3em;
   font-family:"Helvetica Neue", helvetica, "Open Sans", sans-serif;
   font-weight:bolder;
-  color:#fff;
+  color:#7b1d1d;
   text-align:center;
-  margin-top:10%;
+  margin-top:10%
   height:100%;
-  background:rgba(255,255,255, 0.3)
+  background:rgba(255,255,255, 0.4)
+  text-shadow:
+		-1px -1px 0 #111111,
+		1px -1px 0 #111111,
+		-1px 1px 0 #111111,
+		1px 1px 0 #111111;
 }
 
 .wide
