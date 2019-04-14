@@ -20,12 +20,11 @@ Monday, Sept 9: <em class="u">Humans and Other Animals in the Enlightenment and 
 
 
 Thursday, Sept 12 Reading:
-*	Ch from Ritvo? 
 *	Vanessa Watts, "Indigenous place-thought & agency amongst humans and non-humans (First Woman and Sky Woman go on a European world tour!," *Decolonization: Indigeneity, Education & Society* (Vol. 2,  No. 1,  2013): pp. 20-34.
-*	Michel Foucault, *The Order of Things,* Chapter 5 “Classifying” 136-150
-*	Thomas Bewick, A General History of Quadrapeds 1790 pgs TBA
+*	Michel Foucault, *The Order of Things,* Chapter 5, “Classifying,” 136-150.
+*	Thomas Bewick, *A General History of Quadrupeds* 1790 pgs TBA
 
-Further reading:
+Further reading (not recquired):
 Zakkiyah Jackson
 
 
@@ -37,9 +36,9 @@ Monday, Sept 16: <em class="u">Species, Race, Science, Colonialism</em>
 
 
 Thursday Sept 19 Reading:
-*	Aime Cesaire Discourse on Colonialism 
-*	something from critical race reader? Zakiyyah Jackson here?
-*	Darwin [[later work? Entries from Beagle?]]
+*	Aimé Césaire, *Discourse on Colonialism,* 65-78.
+*	Micheal Banton, "The Idiom of Race: A critique of presentism," excerpts in *Theories of Race and Racism: A Reader,"* eds, Les Black and John Solomos, 2000: 55-67.
+*	Darwin, "Variation Under Domestication," in *On the Origin of Species,* 1859: excerpts.
 
 [[something about museums, zoos, and domestication??]]
 
@@ -52,7 +51,7 @@ Monday Sept 23:<em class="u">Physiology and Vivisection – Darwin/Imperialism</
 
 
 Th Sept 26 Reading: 
-* H.G. Wells, *The Island of Dr. Moreau*
+* H.G. Wells, *The Island of Dr. Moreau,* 1896 [whole book].
 * "A physiological demonstration with vivisection of a dog." Oil painting by Emile-Edouard Mouchy, 1832.
 
 <div class="uv" data-locale="en-GB:English (GB)" data-config="https://wellcomelibrary.org/assets/config/uv-config.json" data-uri="https://wellcomelibrary.org/iiif/b12023917/manifest" data-collectionindex="0" data-manifestindex="0" data-sequenceindex="0" data-canvasindex="0" data-zoom="0.0092,0.1552,1.0787,0.6517" data-rotation="0" style="width:640px; height:480px; background-color: #000"></div><script type="text/javascript" id="embedUV" src="https://wellcomelibrary.org/spas/uv/versions/uv-1.7.32/lib/embed.js"></script><script type="text/javascript">/* wordpress fix */</script>
@@ -67,8 +66,7 @@ Monday, Sept 30: <em class="u">Fanciers and Stock-Improvers: Animal Breeding and
 
 
 Thursday, Oct 3 Reading:
-* Michel Foucault – College de France lectures – biopower
-* Nicole Shukin – Animal Capital: Rendering Life in Biopolitical Times, exerpts
+
 * Some sort of breeding manual?
 * Chapter from Margaret Derry?
 * Chapters from Rebecca Woods, The Herds Shot Round the World: Native Breeds and the British Empire 1800-1900
@@ -80,17 +78,14 @@ Thursday, Oct 3 Reading:
 
 **Week 6**
 
-Monday, Oct 7: <em class="u">Making “Model Organisms” and “Industrial Organisms”: Genetic Manipulation, Colonialism, and Feminist Technoscience</em>
+Monday, Oct 7: <em class="u">Totalitarianism, Biopower, and Technoscientific Organisms</em>
 
 
 Thursday, Oct 10 Reading: 
 * Tiago Saraiva, Fascist Pigs, excerpts
-* Biopower?
-* Fox-Keller
+* Michel Foucault – College de France lectures – biopower
+* Nicole Shukin – Animal Capital: Rendering Life in Biopolitical Times, exerpts
 
-* Karen Rader, Making Mice, excerpts
-* Haraway, Modest_Witness@ … Meets OncoMouse
-* Primary source?
 
 ![alt text](images/oncomouse.jpeg "Logo Title Text 1")
 
@@ -99,13 +94,14 @@ Thursday, Oct 10 Reading:
 
 **Week 7**
 
-Monday, Oct 14: <em class="u">??</em>
+Monday, Oct 14: <em class="u">Patenting "Model Organisms": Genetic Manipulation, Colonialism, Capitalism</em>
 
 
 Thursday, Oct 17 Reading:
-* ?
-* ?
-* ?
+* Evelyn Fox-Keller, Introduction to *Century of the Gene,* 1-10
+* Karen Rader, *Making Mice,* excerpts
+* Haraway, Modest_Witness@ … Meets OncoMouse
+* Primary source?
 
 #### Unit 3: Backbreeding
 
@@ -139,11 +135,11 @@ Thursday, Oct 31 Reading:
 
 **Week 10**
 
-Monday, Nov 4: <em class="u">Genetics: Recombinant DNA - Human Genome Project + Identity</em>
+Monday, Nov 4: <em class="u">Genetics, Identity, and Race at the End of the Twentieth Century</em>
 
 
 Thursday, Nov 7 Reading:
-* Fox-Keller - Intro
+* race chapter from Modest Witness?
 * Tallbear “Genomic Articulations of Indigeneity”
 * Wailoo,Keith, Nelson,Alondra, Lee,Catherine, *Genetics and the Unsettled Past* Intro
 * Mybe another piece that keeps us grounded in animals….
