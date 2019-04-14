@@ -172,9 +172,10 @@ Thursday Nov 21 Reading:
 
 
 
-**Week 13**
-
 #### Course Conclusion:
+
+
+**Week 13**
 
 Monday, Nov 25:  <em class="u">Animal Rights and the Liberal Self </em>
 
