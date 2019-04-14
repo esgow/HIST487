@@ -3,7 +3,7 @@
 #### Introduction
 
 
-Week 1
+**Week 1**
 
 Thursday, Sept 5: <em class="u">Course Introduction – “Why Look at Animals?"</em>
 
@@ -14,7 +14,7 @@ Read:
 #### Unit 1: Categorizing
 
 
-Week 2
+**Week 2**
 
 Monday, Sept 9: <em class="u">Humans and Other Animals in the Enlightenment and Beyond</em>
 
@@ -29,7 +29,9 @@ Further reading:
 Zakkiyah Jackson
 
 
-Week 3
+
+
+**Week 3**
 
 Monday, Sept 16: <em class="u">Species, Race, Science, Colonialism</em>
 
@@ -42,7 +44,9 @@ Thursday Sept 19 Reading:
 [[something about museums, zoos, and domestication??]]
 
 
-Week 4
+
+
+**Week 4**
 
 Monday Sept 23:<em class="u">Physiology and Vivisection – Darwin/Imperialism</em>
 
@@ -54,7 +58,7 @@ Th Sept 26 Reading:
 #### Unit 2: Breeding
 
 
-Week 5
+**Week 5**
 
 Monday, Sept 30: <em class="u">Fanciers and Stock-Improvers: Animal Breeding and Eugenics</em>
 
@@ -69,7 +73,9 @@ Thursday, Oct 3 Reading:
 * Galton?
 
 
-Week 6
+
+
+**Week 6**
 
 Monday, Oct 7: <em class="u">Making “Model Organisms” and “Industrial Organisms”: Genetic Manipulation, Colonialism, and Feminist Technoscience</em>
 
@@ -86,7 +92,9 @@ Thursday, Oct 10 Reading:
 ![alt text](images/oncomouse.jpeg "Logo Title Text 1")
 
 
-Week 7
+
+
+**Week 7**
 
 Monday, Oct 14: <em class="u">??</em>
 
@@ -99,7 +107,9 @@ Thursday, Oct 17 Reading:
 #### Unit 3: Backbreeding
 
 
-Week 8
+
+
+**Week 8**
 
 Monday, Oct 21: <em class="u">Conservation Biopolitics, Rewilding, De-Extinction</em>
 
@@ -110,7 +120,9 @@ Thursday, Oct 24 Reading:
 * Loo?
 
 
-Week 9
+
+
+**Week 9**
 
 Monday, Oct 28: <em class="u">Heritage Breeds and Colonial Nostalgia</em>
  
@@ -120,12 +132,11 @@ Thursday, Oct 31 Reading:
 
 [[assignment due?]]
 
-#### Unit 3: Cloning
+#### Unit 4: Cloning
 
-Week 10
+**Week 10**
 
 Monday, Nov 4: <em class="u">Genetics: Recombinant DNA - Human Genome Project + Identity</em>
-
 
 
 Thursday, Nov 7 Reading:
@@ -135,7 +146,9 @@ Thursday, Nov 7 Reading:
 * Mybe another piece that keeps us grounded in animals….
 
 
-Week 11
+
+
+**Week 11**
 
 Monday, Nov 11 [[LONG WEEKEND - NO CLASS]]
 
@@ -145,7 +158,9 @@ Th Nov 14 Reading:
 * Some sort of primary source?
 
 
-Week 12
+
+
+**Week 12**
 
 Monday, Nov 18: <em class="u">*Jurassic Park* viewing party</em>
 
@@ -155,7 +170,9 @@ Thursday Nov 21 Reading:
 * Anonymous, “There is no Unauthorized Breeding in Jurassic Park: Gender and the Uses of Genetics,” Women and Language: WL; Urbana  Vol. 25, Iss. 1,  (Spring 2002)
 
 
-Week 13
+
+
+**Week 13**
 
 #### Course Conclusion:
 
