@@ -34,7 +34,8 @@ h1 a,h2 a,h3 a,h4 a
 }
 
 em.u{
-  text-decoration:underline;
+  border-bottom:.5px solid inherit;
+  font-style:normal;
 }
 
 h4{
