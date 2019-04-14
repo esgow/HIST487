@@ -281,7 +281,7 @@ pre
   margin-top:10%;
   height:100%;
   background:rgba(0,0,0, 0.35);
-
+}
 .wide
 {
   width:100%;
@@ -293,7 +293,7 @@ pre
 #welcome-greeting
 {
   width:100%;
-  padding-top:5px
+  padding-top:5px;
 }
 
 #welcome-greeting > h1
