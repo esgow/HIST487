@@ -21,8 +21,8 @@ Monday, Sept 9: <em class="u">Humans and Other Animals in the Enlightenment and 
 
 Thursday, Sept 12 Reading:
 *	Ch from Ritvo? 
-*	OR Indigenous thought on ontologies… Vanessa Watts and/or Zoe Todd + Tallbear?
-*	Michel Foucault, The Order of Things, Chapter 5 “Classifying”
+*	Vanessa Watts, "Indigenous place-thought & agency amongst humans and non-humans (First Woman and Sky Woman go on a European world tour!," *Decolonization: Indigeneity, Education & Society* (Vol. 2,  No. 1,  2013): pp. 20-34.
+*	Michel Foucault, *The Order of Things,* Chapter 5 “Classifying” 136-150
 *	Thomas Bewick, A General History of Quadrapeds 1790 pgs TBA
 
 Further reading:
