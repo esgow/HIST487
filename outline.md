@@ -167,7 +167,7 @@ Monday, Nov 18: <em class="u">*Jurassic Park* viewing party</em>
 
 Thursday Nov 21 Reading: 
 *	Svetlana Boym, *The Future of Nostalgia*
-* Anonymous, “There is no Unauthorized Breeding in Jurassic Park: Gender and the Uses of Genetics,” Women and Language: WL; Urbana  Vol. 25, Iss. 1,  (Spring 2002)
+* Laura Briggs and Jodi I. Kelber-Kaye, “There is no Unauthorized Breeding in Jurassic Park: Gender and the Uses of Genetics,” Women and Language: WL; Urbana  Vol. 25, Iss. 1,  (Spring 2002)
 
 
 
