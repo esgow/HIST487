@@ -47,7 +47,7 @@ Thursday Sept 19 Reading:
 
 **Week 4**
 
-Monday Sept 23:<em class="u">Physiology and Vivisection – Darwin/Imperialism</em>
+Monday Sept 23:<em class="u">Physiology and Vivisection – Darwinism and Imperialism</em>
 
 
 Th Sept 26 Reading: 
@@ -62,32 +62,29 @@ Th Sept 26 Reading:
 
 **Week 5**
 
-Monday, Sept 30: <em class="u">Fanciers and Stock-Improvers: Animal Breeding and Eugenics</em>
+Monday, Sept 30: <em class="u">"The science of improving stock ... especially in man": Eugenics and Breeds of Empire</em>
 
 
 Thursday, Oct 3 Reading:
 
-* Some sort of breeding manual?
-* Chapter from Margaret Derry?
-* Chapters from Rebecca Woods, The Herds Shot Round the World: Native Breeds and the British Empire 1800-1900
-* Bakewell?
-* Galton?
+* Margaret Derry, "Shorthorns and Animal Improvement," in *Bred for Perfection: Shorthorn Cattle, Collies, and Arabian Horses since 1800* 2003: Chapter 1, 17-42.
+* Rebecca Woods, *The Herds Shot Round the World: Native Breeds and the British Empire 1800-1900* 2017: Introduction, Ch 1 & 4.
+* Francis Galton, *Inquiries Into Human Faculty and Its Development,* 1833: 1-27.
 
 
 
 
 **Week 6**
 
-Monday, Oct 7: <em class="u">Totalitarianism, Biopower, and Technoscientific Organisms</em>
+Monday, Oct 7: <em class="u">Totalitarianism, Biopower, Technoscientific Organisms</em>
 
 
 Thursday, Oct 10 Reading: 
-* Tiago Saraiva, Fascist Pigs, excerpts
-* Michel Foucault – College de France lectures – biopower
-* Nicole Shukin – Animal Capital: Rendering Life in Biopolitical Times, exerpts
+* Tiago Saraiva, *Fascist Pigs: Technoscientific Organisms and the History of Facism* 2016: Introduction, 1-16.
+* Nicole Shukin – *Animal Capital: Rendering Life in Biopolitical Times,* 2009: exerpts from introduction, and chapter 3, "Telemobility: Telecommunication's Animal Currencies" excerpts.
+* Michel Foucault, *Society Must be Defended,* lecture at Collége de France, March 17, 1976: 239-263.
 
 
-![alt text](images/oncomouse.jpeg "Logo Title Text 1")
 
 
 
@@ -103,6 +100,8 @@ Thursday, Oct 17 Reading:
 * Haraway, Modest_Witness@ … Meets OncoMouse
 * Primary source?
 
+![alt text](images/oncomouse.jpeg "Logo Title Text 1")
+
 #### Unit 3: Backbreeding
 
 
@@ -114,7 +113,9 @@ Monday, Oct 21: <em class="u">Conservation Biopolitics, Rewilding, De-Extinction
 
 
 Thursday, Oct 24 Reading: 
-* Jamie Lorimer – Heck Cattle
+* Jamie Lorimer and Clemens Dresen, "Bovine Biopolitics and the Promise of Monsters in the rewilding of Heck Cattle"
+
+– Heck Cattle
 * [[other articles]] –monstrous animal bodies??? Or maybe this pairs with Jurassic Park?? – or maybe this is a recommended research topic…
 * Loo?
 
