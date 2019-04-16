@@ -20,12 +20,14 @@ Monday, Sept 9: <em class="u">Humans and Other Animals in the Enlightenment and 
 
 
 Thursday, Sept 12 Reading:
-*	Vanessa Watts, "Indigenous place-thought & agency amongst humans and non-humans (First Woman and Sky Woman go on a European world tour!," *Decolonization: Indigeneity, Education & Society* (Vol. 2,  No. 1,  2013): pp. 20-34.
+* Ritvo?
 *	Michel Foucault, *The Order of Things,* Chapter 5, “Classifying,” 136-150.
+*	Vanessa Watts, "Indigenous place-thought & agency amongst humans and non-humans (First Woman and Sky Woman go on a European world tour!," *Decolonization: Indigeneity, Education & Society* (Vol. 2,  No. 1,  2013): pp. 20-34.
 *	Thomas Bewick, *A General History of Quadrupeds* 1790 pgs TBA
 
-Further reading (not recquired):
-Zakkiyah Jackson
+Further reading:
+Zakiyyah Iman Jackson, "Animal: New Directions in the Theorization of Race and Posthumanism," *Feminist Studies,*
+Vol. 39, No. 3 (2013): 669-685.
 
 
 
@@ -76,12 +78,12 @@ Thursday, Oct 3 Reading:
 
 **Week 6**
 
-Monday, Oct 7: <em class="u">Totalitarianism, Biopower, Technoscientific Organisms</em>
+Monday, Oct 7: <em class="u">Totalitarianism, Biopower, Technoscience</em>
 
 
 Thursday, Oct 10 Reading: 
 * Tiago Saraiva, *Fascist Pigs: Technoscientific Organisms and the History of Facism* 2016: Introduction, 1-16.
-* Nicole Shukin – *Animal Capital: Rendering Life in Biopolitical Times,* 2009: exerpts from introduction, and chapter 3, "Telemobility: Telecommunication's Animal Currencies" excerpts.
+* Nicole Shukin – *Animal Capital: Rendering Life in Biopolitical Times,* 2009: exerpts from introduction, and chapter 3, "Telemobility: Telecommunication's Animal Currencies," excerpts.
 * Michel Foucault, *Society Must be Defended,* lecture at Collége de France, March 17, 1976: 239-263.
 
 
@@ -91,14 +93,14 @@ Thursday, Oct 10 Reading:
 
 **Week 7**
 
-Monday, Oct 14: <em class="u">Patenting "Model Organisms": Genetic Manipulation, Colonialism, Capitalism</em>
+Monday, Oct 14: <em class="u">Patenting "Model Organisms": Genetic Manipulation, Colonialism, Capitalism in the Laboratory</em>
 
 
 Thursday, Oct 17 Reading:
-* Evelyn Fox-Keller, Introduction to *Century of the Gene,* 1-10
-* Karen Rader, *Making Mice,* excerpts
-* Haraway, Modest_Witness@ … Meets OncoMouse
-* Primary source?
+* Evelyn Fox-Keller, *Century of the Gene,* 2000: Introduction, 1-10.
+* Karen Rader, *Making Mice,* 2004, excerpts. or her article....
+* Donna Haraway, *Modest_Witness@Second_Millenium.FemaleMan Meets_OncoMouse* 1996, 
+* Primary source? maybe something from primate visions with a lab monkey?
 
 ![alt text](images/oncomouse.jpeg "Logo Title Text 1")
 
@@ -114,11 +116,12 @@ Monday, Oct 21: <em class="u">Conservation Biopolitics, Rewilding, De-Extinction
 
 Thursday, Oct 24 Reading: 
 * Jamie Lorimer and Clemens Dresen, "Bovine Biopolitics and the Promise of Monsters in the rewilding of Heck Cattle"
+* ElizabethHennessy, "Producing ‘prehistoric’ life: Conservation breeding and the remaking of wildlife genealogies" 
+*From “Nazi Cows” to Cosmopolitan “Ecological Engineers”: Specifying Rewilding Through a History of Heck Cattle
+Jamie Lorimer & Clemens Driessen
 
-– Heck Cattle
-* [[other articles]] –monstrous animal bodies??? Or maybe this pairs with Jurassic Park?? – or maybe this is a recommended research topic…
 * Loo?
-
+* operation taurus website
 
 
 
