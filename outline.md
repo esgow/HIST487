@@ -99,7 +99,7 @@ Monday, Oct 14: <em class="u">Patenting "Model Organisms": Genetic Manipulation,
 Thursday, Oct 17 Reading:
 * Evelyn Fox-Keller, *Century of the Gene,* 2000: Introduction, 1-10.
 * Karen Rader, *Making Mice,* 2004, excerpts. or her article....
-* Donna Haraway, *Modest_Witness@Second_Millenium.FemaleMan Meets_OncoMouse* 1996, 
+* Donna Haraway, *Modest_Witness@Second_Millenium.FemaleMan Meets_OncoMouse* 1996, excerpts. 
 * Primary source? maybe something from primate visions with a lab monkey?
 
 ![alt text](images/oncomouse.jpeg "Logo Title Text 1")
@@ -115,13 +115,12 @@ Monday, Oct 21: <em class="u">Conservation Biopolitics, Rewilding, De-Extinction
 
 
 Thursday, Oct 24 Reading: 
-* Jamie Lorimer and Clemens Dresen, "Bovine Biopolitics and the Promise of Monsters in the rewilding of Heck Cattle"
-* ElizabethHennessy, "Producing ‘prehistoric’ life: Conservation breeding and the remaking of wildlife genealogies" 
-*From “Nazi Cows” to Cosmopolitan “Ecological Engineers”: Specifying Rewilding Through a History of Heck Cattle
-Jamie Lorimer & Clemens Driessen
+* Jamie Lorimer and Clemens Dresen, "From 'Nazi Cows' to Cosmopolitan 'Ecological Engineers': Specifying Rewilding Through a History of Heck Cattle," *Annals of the American Association of Geographers* (Vol 106 no 3, 2016): 631-652.
+* Elizabeth Hennessy, "Producing ‘prehistoric’ life: Conservation breeding and the remaking of wildlife genealogies," *Geoforum* (Vol 49, 2013), 71-80.
+* Christine Biermann  Robert M. Anderson, "Conservation, biopolitics, and the governance of life and death" Vol 11, no. 10 October 2017
+* Peruse the Operation Taurus website: http://taurosprogramme.com/home/breeding-programme/
 
-* Loo?
-* operation taurus website
+Reccomended watching:https://www.kimstim.com/film/genesis-2-0/ - A documentary on recent attempts to splice ancient Mammoth genes with Asian elephant to reintroduce mammoths for environmental conservation.
 
 
 
@@ -131,9 +130,8 @@ Monday, Oct 28: <em class="u">Heritage Breeds and Colonial Nostalgia</em>
  
 
 Thursday, Oct 31 Reading: 
-* Magelssen [[and maybe something about live animals in zoos]]
-
-[[assignment due?]]
+* Scott Magelssen, "Resuscitating the Extinct: The Backbreeding of Historic Animals at U.S. Living History Museums," *TDR* Vol. 47, no. 4 (Winter, 2003): pp. 98-109.
+* 
 
 #### Unit 4: Cloning
 
