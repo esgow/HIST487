@@ -49,7 +49,7 @@ Monday Sept 23: <em class="u">Physiology and Vivisection – Darwinism and Imper
 
 
 Th Sept 26 Reading: 
-* H.G. Wells, *The Island of Dr. Moreau,* (1896) [whole book].
+* H.G. Wells, *The Island of Dr. Moreau* (1896) [whole book].
 * "A physiological demonstration with vivisection of a dog." Oil painting by Emile-Edouard Mouchy (1832).
 
 <div class="uv" data-locale="en-GB:English (GB)" data-config="https://wellcomelibrary.org/assets/config/uv-config.json" data-uri="https://wellcomelibrary.org/iiif/b12023917/manifest" data-collectionindex="0" data-manifestindex="0" data-sequenceindex="0" data-canvasindex="0" data-zoom="0.0092,0.1552,1.0787,0.6517" data-rotation="0" style="width:640px; height:480px; background-color: #000"></div><script type="text/javascript" id="embedUV" src="https://wellcomelibrary.org/spas/uv/versions/uv-1.7.32/lib/embed.js"></script><script type="text/javascript">/* wordpress fix */</script>
