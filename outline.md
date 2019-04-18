@@ -27,7 +27,7 @@ Thursday, Sept 12 Reading:
 *	Vanessa Watts, "Indigenous place-thought & agency amongst humans and non-humans (First Woman and Sky Woman go on a European world tour!," *Decolonization: Indigeneity, Education & Society* (Vol. 2,  No. 1,  2013): 20-34.
 * Zakiyyah Iman Jackson, "Animal: New Directions in the Theorization of Race and Posthumanism," *Feminist Studies,*
 (Vol 39, no. 3, 2013): 669-685.
-*	Primary source: Thomas Bewick, *A General History of Quadrupeds* 1790, excerpts.
+*	Primary source: Thomas Bewick, *A General History of Quadrupeds* (1790), excerpts.
 
 
 
