@@ -104,9 +104,6 @@ Thursday, Oct 17 Reading:
 <div id="viewer" style="height:800px; width:600px; background-color:black; padding:.5rem; margin: .5rem;"></div>
 
 
-
-![OncoMouse advertisement](images/onco.png " OncoMouse advertisement")
-
 #### Unit 3: Backbreeding
 
 
