@@ -6,7 +6,7 @@ description: History 487 Course Outline
 ##Make sure to edit the above fields, especially for disqus.
 
 
-highlighter: pygments
+highlighter: rouge
 markdown: redcarpet
 redcarpet:
   extensions: ["tables"]
