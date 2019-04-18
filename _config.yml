@@ -7,8 +7,6 @@ description: History 487 Course Outline
 
 
 highlighter: rouge
-redcarpet:
-  extensions: ["tables"]
 
 defaults:
   - scope:
