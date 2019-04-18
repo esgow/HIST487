@@ -186,6 +186,6 @@ Thursday, Nov 28 Reading:
 
 
 Monday, December 2: “And Say the Animal Responded?”
-* Read: Jacques Derrida, "The Animal that Therefore I am (More to Follow),"*Critical Inquiry* (Vol 28 no, 2, 2002), excerpts.
+* Read: Jacques Derrida, "The Animal that Therefore I am (More to Follow)," *Critical Inquiry* (Vol 28 no, 2, 2002), excerpts.
 
 
