@@ -122,7 +122,7 @@ Primary sources:
 
 Recommended watching: https://www.kimstim.com/film/genesis-2-0/ - A 2018 documentary on recent attempts to splice ancient Mammoth genes with Asian elephant to reintroduce mammoths for environmental conservation in Siberia.
 
-![Lutz holding an anteater](images/lutzHeckAnteater.jpg "Lutz holding an anteater")
+![Lutz holding an anteater](images/LutzHeckAnteater.jpg "Lutz holding an anteater")
 
 **Week 9**
 
