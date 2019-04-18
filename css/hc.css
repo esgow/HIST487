@@ -116,11 +116,11 @@ p
 }
 
 
-img[href~='onco']{
+img[src~='onco']{
   max-width:40rem;
 }
 
-img[href~='Lutz']{
+img[src~='Lutz']{
    max-width:25rem; 
 }
 
