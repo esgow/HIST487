@@ -3,6 +3,7 @@
 #### Introduction
 
 
+
 **Week 1**
 
 Thursday, Sept 5: <em class="u">Course Introduction – “Why Look at Animals?"</em>
@@ -43,6 +44,8 @@ Thursday Sept 19 Reading:
 
 
 **Week 4**
+
+![Island Makeup](images/IslandMakeup.jpg "")
 
 Monday Sept 23: <em class="u">Physiology and Vivisection – Darwinism and Imperialism</em>
 
@@ -95,9 +98,9 @@ Thursday, Oct 17 Reading:
 * Evelyn Fox-Keller, *Century of the Gene* (Harvard University Press 2000), 1-10.
 * Karen Rader, *Making Mice* (Princeton University Press, 2004), excerpts.
 * Donna Haraway,"Mice into Wormholes: A Technoscience Fugue in Two Parts" in *Modest_Witness@Second_Millenium.FemaleMan Meets_OncoMouse* (Routledge, 1997), "Part 1: Kinship," excerpts.
-* Primary source: [[insert p source OncoMouse pic]]
+* Primary source: OncoMouse advertisement in *Science* Magazine (2003)
 
-![alt text](images/oncomouse.jpeg "Logo Title Text 1")
+![OncoMouse advertisement](images/onco.png " OncoMouse advertisement")
 
 #### Unit 3: Backbreeding
 
@@ -119,7 +122,7 @@ Primary sources:
 
 Recommended watching: https://www.kimstim.com/film/genesis-2-0/ - A 2018 documentary on recent attempts to splice ancient Mammoth genes with Asian elephant to reintroduce mammoths for environmental conservation in Siberia.
 
-
+![Lutz holding an anteater](images/lutzHeckAnteater.jpg "Lutz holding an anteater")
 
 **Week 9**
 
