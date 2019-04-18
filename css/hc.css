@@ -116,14 +116,6 @@ p
 }
 
 
-img[src~='onco']{
-  max-width:40rem;
-}
-
-img[src~='Lutz']{
-   max-width:25rem; 
-}
-
 .sidebar-nav
 {
   position:absolute;
@@ -405,6 +397,16 @@ img
 {
   max-width:100%;
 }
+
+
+img[src="images/onco.png"]{
+  max-width:40rem;
+}
+
+img[src="images/LutzHeckAnteater.jpg"]{
+   max-width:25rem; 
+}
+
 
 #article
 {
