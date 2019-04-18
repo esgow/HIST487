@@ -104,13 +104,6 @@ Thursday, Oct 17 Reading:
 <div id="viewer" style="height:800px; width:600px"/>
 
 
-<script src="https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js"></script>
-
-
-<script src="js/sea.js"></script>
-
-
-
 
 ![OncoMouse advertisement](images/onco.png " OncoMouse advertisement")
 
