@@ -100,6 +100,18 @@ Thursday, Oct 17 Reading:
 * Donna Haraway,"Mice into Wormholes: A Technoscience Fugue in Two Parts" in *Modest_Witness@Second_Millenium.FemaleMan Meets_OncoMouse* (Routledge, 1997), "Part 1: Kinship," excerpts.
 * Primary source: OncoMouse advertisement in *Science* Magazine (2003)
 
+
+<div id="viewer" style="height:800px; width:600px"/>
+
+
+<script src="https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js"></script>
+
+
+<script src="js/sea.js"></script>
+
+
+
+
 ![OncoMouse advertisement](images/onco.png " OncoMouse advertisement")
 
 #### Unit 3: Backbreeding
