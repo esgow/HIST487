@@ -20,6 +20,7 @@ There is absolutely zero tolerance for homophobia, transphobia, sexism, racism, 
 ### Weekly Responses (10 @ approx. 250 words): 25%
 
 **DUE: BEGINNING OF CLASS ON THURSDAYS**
+
 **PORTFOLIO DUE: DECEMBER 2**
 
 For 10 of our 13 seminars, you will write a short response to **OR** a set of questions about the assigned readings. Your task on both cases is to synthesize the week's readings, drawing out some points of similarities and differences. It can focus on any aspect of the readings, but it must address all of the assigned readings.
