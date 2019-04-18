@@ -19,18 +19,3 @@ By end of this course students will be able to:
 * Analyze the content as well as the form of visual and and aesthetic sources: film, novels, et cetera
 * Demonstrate a strong grasp on the intersections between gender/race/class in the production of animal bodies as objects of Western scientific and academic knowledge 
 * Recognize and assess debates in the field of Animal Studies/Animal History 
-
-## Grade Breakdown
-
-**Partipation**: 30%
-* Weekly Syntheses – 1-2 pages (due Thursday at beginning of class)
-* In-class participation in Thursday seminars
-
-**Mix n' Match Theory/Primary Source Assignment** (1500-1750 words, Dec. 2): 20%
-See full description on assignment page 
-
-**Short Research Assignment**: 15%
-something small and low-stakes that requires them to look something up? – or close reading of something? 1000-words
-
-**Take Home Exam**: 30%
-One synthetic and one analytical essay, 1500 words each, based on TBA prompt questions
