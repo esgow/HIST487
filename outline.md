@@ -10,7 +10,7 @@ Thursday, Sept 5: <em class="u">Course Introduction – “Why Look at Animals?"
 * Read: Berger, “Why Look at Animals?” from *About Looking* (1977), 1-28.
 
 Further reading:
-Cary Wolfe, "'Animal Studies', Disciplinarity, and the [Post]Humanities" in *What is Posthumanism?* (University of Minnesota, 2010), 99-126.
+Cary Wolfe, "'Animal Studies', Disciplinarity, and the [Post]Humanities" in *What is Posthumanism?* (University of Minnesota Press, 2010), 99-126.
 
 
 #### Unit 1: Categorizing
