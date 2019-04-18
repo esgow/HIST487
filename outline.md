@@ -136,7 +136,7 @@ Thursday, Oct 31 Reading:
 
 **Week 10**
 
-Monday, Nov 4: <em class="u">Genetics, Identity, and Race at the End of the Twentieth Century</em>d
+Monday, Nov 4: <em class="u">Genetics, Identity, and Race at the End of the Twentieth Century</em>
 
 
 Thursday, Nov 7 Reading:
