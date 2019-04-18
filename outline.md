@@ -10,7 +10,7 @@ Thursday, Sept 5: <em class="u">Course Introduction – “Why Look at Animals?"
 * Read: Berger, “Why Look at Animals?” from *About Looking* (1977), 1-28.
 
 Further reading:
-Cary Wolfe, "'Animal Studies', Disciplinarity, and the [Post]Humanities" in *What is Posthumanism?* (University of Minnesota Press, 2010), 99-126.
+Cary Wolfe, "'Animal Studies', Disciplinarily, and the [Post]Humanities" in *What is Posthumanism?* (University of Minnesota Press, 2010), 99-126.
 
 
 #### Unit 1: Categorizing
@@ -96,7 +96,6 @@ Thursday, Oct 17 Reading:
 * Evelyn Fox-Keller, *Century of the Gene,* (Harvard University Press 2000), 1-10.
 * Karen Rader, *Making Mice* (Princeton University Press, 2004), excerpts.
 * Donna Haraway,"Mice into Wormholes: A Technoscience Fugue in Two Parts" in *Modest_Witness@Second_Millenium.FemaleMan Meets_OncoMouse* (Routledge, 1997), "Part 1: Kinship," excerpts.
-
 * Primary source: [[insert p source OncoMouse pic]]
 
 ![alt text](images/oncomouse.jpeg "Logo Title Text 1")
@@ -119,7 +118,7 @@ Primary sources:
 * Peruse the Operation Taurus website: http://taurosprogramme.com/home/breeding-programme/
 * And the Rewilding Project website: https://rewildingeurope.com/rewilding-in-action/wildlife-comeback/tauros/ 
 
-Reccomended watching:https://www.kimstim.com/film/genesis-2-0/ - A 2018 documentary on recent attempts to splice ancient Mammoth genes with Asian elephant to reintroduce mammoths for environmental conservation in Siberia.
+Recommended watching: https://www.kimstim.com/film/genesis-2-0/ - A 2018 documentary on recent attempts to splice ancient Mammoth genes with Asian elephant to reintroduce mammoths for environmental conservation in Siberia.
 
 
 
