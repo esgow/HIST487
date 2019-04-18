@@ -94,8 +94,8 @@ Monday, Oct 14: <em class="u">Patenting "Model Organisms": Genetic Manipulation,
 
 Thursday, Oct 17 Reading:
 * Evelyn Fox-Keller, *Century of the Gene,* (Harvard University Press 2000), 1-10.
-* Karen Rader, *Making Mice,* (Princeton University Press, 2004), excerpts.
-* Donna Haraway,"Mice into Wormholes: A Technoscience Fugue in Two Parts" in *Modest_Witness@Second_Millenium.FemaleMan Meets_OncoMouse* 1996, "Part 1: Kinship," excerpts.
+* Karen Rader, *Making Mice* (Princeton University Press, 2004), excerpts.
+* Donna Haraway,"Mice into Wormholes: A Technoscience Fugue in Two Parts" in *Modest_Witness@Second_Millenium.FemaleMan Meets_OncoMouse* (Routledge, 1997), "Part 1: Kinship," excerpts.
 
 * Primary source: [[insert p source OncoMouse pic]]
 
@@ -143,7 +143,7 @@ Monday, Nov 4: <em class="u">Genetics, Identity, and Race at the End of the Twen
 Thursday, Nov 7 Reading:
 * Tallbear “Racial Science, Blood, and DNA," in *Native American DNA: Tribal belonging and the false promise of genetic science,* (University of Minnesota Press, 2013), 31-66.
 * Keith Wailoo, Alondra Nelson, Catherine Lee, *Genetics and the Unsettled Past: the Collision of DNA, Race, and History,* (Rutgers University Press, 2012), Introduction.
-* Donna Haraway, "RACE, Universal Donors in a Vampire Culture: It’s All in the Family. Biological Kinship Categories in the Twentieth-Century United States," in *Modest_Witness@Second_Millenium.FemaleMan Meets_OncoMouse* (Routledge, 1996), excerpts.
+* Donna Haraway, "RACE, Universal Donors in a Vampire Culture: It’s All in the Family. Biological Kinship Categories in the Twentieth-Century United States," in *Modest_Witness@Second_Millenium.FemaleMan Meets_OncoMouse* (Routledge, 1997), excerpts.
 
 
 
@@ -154,7 +154,7 @@ Monday, Nov 11 [[LONG WEEKEND - NO CLASS]]
 
 
 Th Nov 14 Reading:
-* Sarah Franklin, *Dolly Mixtures: Remaking Genealogy* [whole book]
+* Sarah Franklin, *Dolly Mixtures: The Remaking of Genealogy* (Duke University Press, 2007) [whole book]
 
 
 
