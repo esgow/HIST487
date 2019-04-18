@@ -127,9 +127,9 @@ Monday, Oct 28: <em class="u">Heritage Breeds and Colonial Nostalgia</em>
  
 
 Thursday, Oct 31 Reading: 
-* Scott Magelssen, "Resuscitating the Extinct: The Backbreeding of Historic Animals at U.S. Living History Museums," *TDR* Vol. 47, no. 4 (Winter, 2003): pp. 98-109.
-* Rodney Harrison, "On Heritage Ontologies: Rethinking the Material Worlds of Heritage," *Anthropological Quarterly; Washington* (Vol 91 no. 4 Fall 2018): 1365-1383.
-* Primary source: John Worrell, "How Do You Test History in a Lab?" *Rural Visitor,* (Vol XIX no. 1, 1974):4-6.
+* Scott Magelssen, "Resuscitating the Extinct: The Backbreeding of Historic Animals at U.S. Living History Museums," *TDR* 47, no. 4 (Winter, 2003): 98-109.
+* Rodney Harrison, "On Heritage Ontologies: Rethinking the Material Worlds of Heritage," *Anthropological Quarterly; Washington* 91 no. 4 (Fall 2018): 1365-1383.
+* Primary source: John Worrell, "How Do You Test History in a Lab?" *Rural Visitor,* XIX no. 1, (1974): 4-6.
 
 #### Unit 4: Cloning
 
@@ -139,8 +139,8 @@ Monday, Nov 4: <em class="u">Genetics, Identity, and Race at the End of the Twen
 
 
 Thursday, Nov 7 Reading:
-* Kim Tallbear “Racial Science, Blood, and DNA," in *Native American DNA: Tribal belonging and the false promise of genetic science,* (University of Minnesota Press, 2013), 31-66.
-* Keith Wailoo, Alondra Nelson, Catherine Lee, *Genetics and the Unsettled Past: the Collision of DNA, Race, and History,* (Rutgers University Press, 2012), Introduction.
+* Kim Tallbear “Racial Science, Blood, and DNA," in *Native American DNA: Tribal belonging and the false promise of genetic science* (University of Minnesota Press, 2013), 31-66.
+* Keith Wailoo, Alondra Nelson, Catherine Lee, *Genetics and the Unsettled Past: the Collision of DNA, Race, and History* (Rutgers University Press, 2012), Introduction.
 * Donna Haraway, "RACE, Universal Donors in a Vampire Culture: It’s All in the Family. Biological Kinship Categories in the Twentieth-Century United States," in *Modest_Witness@Second_Millenium.FemaleMan Meets_OncoMouse* (Routledge, 1997), excerpts.
 
 
@@ -164,8 +164,8 @@ Monday, Nov 18: <em class="u">*Jurassic Park* viewing party</em>
 
 
 Thursday Nov 21 Reading: 
-*	Svetlana Boym, "The Dinosaur: Nostalgia and Popular Culture," in *The Future of Nostalgia,* (Basic Books, 2008).
-* Laura Briggs and Jodi I. Kelber-Kaye, “There is no Unauthorized Breeding in Jurassic Park: Gender and the Uses of Genetics,” *National Womens' Studies Journal,* (Vol. 25, Iss. 1, 2002): 92-112.
+*	Svetlana Boym, "The Dinosaur: Nostalgia and Popular Culture," in *The Future of Nostalgia* (Basic Books, 2008).
+* Laura Briggs and Jodi I. Kelber-Kaye, “There is no Unauthorized Breeding in Jurassic Park: Gender and the Uses of Genetics,” *National Womens' Studies Journal* 25, no. 1 (2002): 92-112.
 
 
 
@@ -180,11 +180,11 @@ Monday, Nov 25:  <em class="u">Animal Rights and the Liberal Self </em>
 
 Thursday, Nov 28 Reading:
 * Sue Donaldson and Will Kymlicka, *Zoopolis: A Political Theory of Animal Rights,* (Oxford University Press, 2011), excerpts. 
-* Billy-Ray Belcourt, "Animal Bodies, Colonial Subjects: (Re)Locating Animality in Decolonial Thought," *Societies,* (Vol 5, no 1, 2015), 1-11.
-* Paul Nadasdy, "First Nations, Citizenship and Animals, or Why Northern Indigenous People Might Not Want to Live in Zoopolis," *Canadian Journal of Political Science,* (Vol 49, no. 1, 2016), 1-20.
+* Billy-Ray Belcourt, "Animal Bodies, Colonial Subjects: (Re)Locating Animality in Decolonial Thought," *Societies,* 5, no 1 (2015), 1-11.
+* Paul Nadasdy, "First Nations, Citizenship and Animals, or Why Northern Indigenous People Might Not Want to Live in Zoopolis," *Canadian Journal of Political Science* 49, no. 1 (2016), 1-20.
 
 
 Monday, December 2: “And Say the Animal Responded?”
-* Read: Jacques Derrida, "The Animal that Therefore I am (More to Follow)," *Critical Inquiry* (Vol 28 no, 2, 2002), excerpts.
+* Read: Jacques Derrida, "The Animal that Therefore I am (More to Follow)," *Critical Inquiry* 28, no. 2 (2002), excerpts.
 
 
