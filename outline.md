@@ -101,7 +101,7 @@ Thursday, Oct 17 Reading:
 * Primary source: OncoMouse advertisement in *Science* Magazine (2003)
 
 
-<div id="viewer" style="height:800px; width:600px"/>
+<div id="viewer" style="height:800px; width:600px"></div>
 
 
 
