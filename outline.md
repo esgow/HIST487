@@ -149,11 +149,11 @@ Thursday, Nov 7 Reading:
 
 **Week 11**
 
-Monday, Nov 11 [[LONG WEEKEND - NO CLASS]]
+Monday, Nov 11: LONG WEEKEND - NO CLASS
 
 
 Th Nov 14 Reading:
-* Sarah Franklin, *Dolly Mixtures: The Remaking of Genealogy* (Duke University Press, 2007) [whole book]
+* Sarah Franklin, *Dolly Mixtures: The Remaking of Genealogy* (Duke University Press, 2007) [whole book].
 
 
 
