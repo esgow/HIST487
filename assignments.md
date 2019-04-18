@@ -17,7 +17,7 @@ Participation will be evaluated holistically, meaning that there is no correlati
 There is absolutely zero tolerance for homophobia, transphobia, sexism, racism, or any other form of discrimination in this class.
 
 
-### Weekly Responses (10 @ approx. 250 words): 20%
+### Weekly Responses (10 @ approx. 250 words): 25%
 
 **DUE: BEGINNING OF CLASS ON THURSDAYS**
 **PORTFOLIO DUE: DECEMBER 2**
@@ -36,7 +36,7 @@ This assignment asks that you think creatively and critically about the interact
 This assignment invites deep and close readings of the two texts. Read the texts carefully, asking questions about word choice, rhetorical style, and argumentation. What sorts of language do these texts share? What assumptions do both texts make? For whom is the text written and in what contexts? Note that while no outside research is required, it is not forbidden; however, do make sure to use external sources judiciously if you decide to do so--to note, there is no correlation between the amount of sources in the bibliography and the mark you receive.
 
 
-### Animal Genealogy Research Assignment (2000-2500 words): 25%
+### Animal Genealogy Research Assignment (2000-2500 words): 30%
 
 **DUE: DECEMBER 10**
 
