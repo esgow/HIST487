@@ -115,6 +115,15 @@ p
   border-width:4px
 }
 
+
+img[href~='onco']{
+  max-width:40rem;
+}
+
+img[href~='Lutz']{
+   max-width:25rem; 
+}
+
 .sidebar-nav
 {
   position:absolute;
