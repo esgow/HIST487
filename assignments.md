@@ -23,7 +23,7 @@ There is absolutely zero tolerance for homophobia, transphobia, sexism, racism, 
 
 **PORTFOLIO DUE: DECEMBER 2**
 
-For 10 of our 13 seminars, you will write a short response to **OR** a set of questions about the assigned readings. Your task on both cases is to synthesize the week's readings, drawing out some points of similarities and differences. It can focus on any aspect of the readings, but it must address all of the assigned readings.
+For 10 of our 13 seminars, you will write a short response to **OR** a set of questions about the assigned readings. Your task in both cases is to synthesize the week's readings, drawing out some points of similarities and differences. It can focus on any aspect of the readings, but it must address all of the assigned readings.
 
 You can submit these papers for any week of your choice, but note that late papers will **not** be accepted. I will return your paper within 2 weeks of the submission with feedback and a grade. You **must** retain a copy of the **graded paper** for submission at the end of the term. At the end of the term, you will submit all 10 of your papers and they will be graded holistically as a single portfolio. While the final grade for this assignment will take into consideration the mathematical average of the individual papers, I am also looking for evidence of improvement; in other words, if you have a bad week, that's okay. 
 
@@ -36,12 +36,14 @@ This assignment asks that you think creatively and critically about the interact
 
 This assignment invites deep and close readings of the two texts. Read the texts carefully, asking questions about word choice, rhetorical style, and argumentation. What sorts of language do these texts share? What assumptions do both texts make? For whom is the text written and in what contexts? Note that while no outside research is required, it is not forbidden; however, do make sure to use external sources judiciously if you decide to do so--to note, there is no correlation between the amount of sources in the bibliography and the mark you receive.
 
+I will post a list of appropriate primary sources and theoretical texts from which you may chose later in the term.
+
 
 ### Animal Genealogy Research Assignment (2000-2500 words): 30%
 
 **DUE: DECEMBER 10**
 
-In this assignment, you will sharpen your "animal historian" skill set by tracing the history of one non-human animal throughout empire. In part, this is a project engaged in a critical "genealogy" of an animal, where "genealogy" (following Foucault and Sarah Franklin) refers to a method of tracing the history of the everyday, of those, in this case, non-human vitalities that seem to be without history. In other words, your task is to investigate the history of animal, taking into consideration the multiple questions and themes of the course
+In this assignment, you will sharpen your "animal historian" skill set by tracing the history of one non-human animal throughout empire. In part, this is a project engaged in a critical "genealogy" of an animal, where "genealogy" (following Foucault and Sarah Franklin) refers to a method of tracing the history of the everyday, of those, in this case, non-human vitalities that seem to be without history. In other words, your task is to investigate the history of animal, taking into consideration the multiple questions and themes of the course.
 
 
 There are no formal temporal, spatial, or special (i.e. relating to species) parameters for this project, but, in most cases, you will want to set fairly strict parameters for a paper of this length. The parameters that define "animal" and "empire" are up to you, and you can choose to focus on any animal. 
