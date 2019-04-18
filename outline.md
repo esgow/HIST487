@@ -140,7 +140,7 @@ Monday, Nov 4: <em class="u">Genetics, Identity, and Race at the End of the Twen
 
 
 Thursday, Nov 7 Reading:
-* Tallbear “Racial Science, Blood, and DNA," in *Native American DNA: Tribal belonging and the false promise of genetic science,* (University of Minnesota Press, 2013), 31-66.
+* Kim Tallbear “Racial Science, Blood, and DNA," in *Native American DNA: Tribal belonging and the false promise of genetic science,* (University of Minnesota Press, 2013), 31-66.
 * Keith Wailoo, Alondra Nelson, Catherine Lee, *Genetics and the Unsettled Past: the Collision of DNA, Race, and History,* (Rutgers University Press, 2012), Introduction.
 * Donna Haraway, "RACE, Universal Donors in a Vampire Culture: It’s All in the Family. Biological Kinship Categories in the Twentieth-Century United States," in *Modest_Witness@Second_Millenium.FemaleMan Meets_OncoMouse* (Routledge, 1997), excerpts.
 
