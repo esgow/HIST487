@@ -46,7 +46,7 @@ Thursday Sept 19 Reading:
 
 **Week 4**
 
-Monday Sept 23:<em class="u">Physiology and Vivisection – Darwinism and Imperialism</em>
+Monday Sept 23: <em class="u">Physiology and Vivisection – Darwinism and Imperialism</em>
 
 
 Th Sept 26 Reading: 
