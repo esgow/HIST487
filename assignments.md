@@ -43,12 +43,12 @@ I will post a list of appropriate primary sources and theoretical texts from whi
 
 **DUE: DECEMBER 10**
 
-In this assignment, you will sharpen your "animal historian" skill set by tracing the history of one non-human animal throughout empire. In part, this is a project engaged in a critical "genealogy" of an animal, where "genealogy" (following Foucault and Sarah Franklin) refers to a method of tracing the history of the everyday, of those, in this case, non-human vitalities that seem to be without history. In other words, your task is to investigate the history of animal, taking into consideration the multiple questions and themes of the course.
+In this assignment, you will sharpen your "animal historian" skill set by tracing the history of one non-human animal throughout empire. In part, this is a project engaged in a critical "genealogy" of an animal, where "genealogy" (following Foucault and Sarah Franklin) refers to a method of tracing the history of the everyday, of those, in this case, non-human vitalities that seem to be without history. In other words, your task is to investigate the history of an animal, taking into consideration the multiple questions and themes of the course.
 
 
 There are no formal temporal, spatial, or special (i.e. relating to species) parameters for this project, but, in most cases, you will want to set fairly strict parameters for a paper of this length. The parameters that define "animal" and "empire" are up to you, and you can choose to focus on any animal. 
 
-One approach to this topic would be to pick a famous animal (for instance, Koko the Gorilla or Jumbo the Elephant) and analyze its life and times within empire, broadly defined. Or, you might choose a specific breed of animal (like the Merino breed of sheep) and trace its history. Alternatively, you can choose a specific species (beavers or bees, for instance) and think about the animal more broadly. However, please come see me in my office hours or set up an appointment if you would like to choose a fictional or mythical animal.
+One approach to this topic would be to pick a famous animal (for instance, Koko the Gorilla or Jumbo the Elephant) and analyze its life and times within empire, broadly defined. Or, you might choose a specific breed of animal (like the Merino breed of sheep) and trace its history. Alternatively, you can choose a specific species (beavers or bees, for instance) and think about the animal more broadly. However, please come see me in my office hours or set up an appointment if you would like to choose a fictional or mythical animal. In fact, come see me in either case! I am always very happy to discuss and help develop research topics one-on-one.
 
 Some questions that you might want to consider include:
 
@@ -61,7 +61,7 @@ Some questions that you might want to consider include:
 
 In all cases, you will need to ensure that your analysis is focused, and that you engage with the themes and questions of the course. Your paper should contain a clear argument supported by primary and secondary evidence. Primary sources, in the context of this paper, can mean anything that deals with the animal in the time period you choose to historcize it within; this can be zoological findings, biological studies, popular representations, et cetera. It should also outline how the animal has been embedded with circuits of empire and why, in the context of this course, this animal is important to "look at." 
 
-Remember that this it not a zoological report; while you can certainly draw on ecological studies of the animal and other scientific texts, the paper should remain a historical analysis of the animal.
+Remember that this it not a zoological report; while you can certainly draw on ecological studies of the animal and other scientific texts, the paper should remain a historical analysis of the animal and the problems of its historicity.
 
 I encourage you to see the [Reaktion Animal Book Series](http://www.reaktionbooks.co.uk/results.asp?SF1=series_exact&ST1=ANIMAL&DS=ANIMAL&SORT=sort_title) for inspiration and, in particular, Daniel Heath Justice's book *Badger*. You can certainly choose an animal already explored in the Reaktion series, but you still need to engage with research outside of the confines of that series. 
 
