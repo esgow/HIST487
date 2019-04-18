@@ -2,5 +2,11 @@
 <script src="{{ site.baseurl }}/js/jquery-1.10.2.min.js"></script>
 <script src="{{ site.baseurl }}/js/bootstrap.min.js"></script>
 <script src="{{ site.baseurl }}/js/hc.js"></script>
-<script src="{{ site.baseurl }}/js/onco.js"></script>
 <script src="{{ site.baseurl }}/js/openseadragon.min.js"></script>
+<script>
+   var viewer = OpenSeadragon({
+        id: "viewer"
+        tileSources: "{{ site.baseurl }}/images/onco.dzi"
+ });
+</script>
+
