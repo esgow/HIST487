@@ -24,9 +24,8 @@ Monday, Sept 9: <em class="u">Humans and Other Animals in the Enlightenment and 
 Thursday, Sept 12 Reading:
 
 *	Michel Foucault, *The Order of Things,* Chapter 5, “Classifying,” excerpts.
-*	Vanessa Watts, "Indigenous place-thought & agency amongst humans and non-humans (First Woman and Sky Woman go on a European world tour!," *Decolonization: Indigeneity, Education & Society* (Vol. 2,  No. 1,  2013): 20-34.
-* Zakiyyah Iman Jackson, "Animal: New Directions in the Theorization of Race and Posthumanism," *Feminist Studies,*
-(Vol 39, no. 3, 2013): 669-685.
+*	Vanessa Watts, "Indigenous place-thought & agency amongst humans and non-humans (First Woman and Sky Woman go on a European world tour!," *Decolonization: Indigeneity, Education & Society* 2 no. 1 (2013): 20-34.
+* Zakiyyah Iman Jackson, "Animal: New Directions in the Theorization of Race and Posthumanism," *Feminist Studies* 39, no. 3 (2013): 669-685.
 *	Primary source: Thomas Bewick, *A General History of Quadrupeds* (1790), excerpts.
 
 
@@ -38,9 +37,9 @@ Monday, Sept 16: <em class="u">Species, Race, Science, Colonialism</em>
 
 
 Thursday Sept 19 Reading:
-*	Aimé Césaire, *Discourse on Colonialism,* (1955), 65-78.
-*	Micheal Banton, "The Idiom of Race: A critique of presentism," excerpts in *Theories of Race and Racism: A Reader,"* eds, Les Black and John Solomos, (Routledge, 2009), 55-67.
-*	Primary source: Darwin, "Variation Under Domestication," in *On the Origin of Species,* (1859), excerpts.
+*	Aimé Césaire, *Discourse on Colonialism* (1955), 65-78.
+*	Micheal Banton, "The Idiom of Race: A critique of presentism," excerpts in *Theories of Race and Racism: A Reader,"* eds, Les Black and John Solomos (Routledge, 2009), 55-67.
+*	Primary source: Darwin, "Variation Under Domestication," in *On the Origin of Species* (1859), excerpts.
 
 
 **Week 4**
@@ -67,7 +66,7 @@ Thursday, Oct 3 Reading:
 
 * Margaret Derry, "Shorthorns and Animal Improvement," in *Bred for Perfection: Shorthorn Cattle, Collies, and Arabian Horses since 1800* (Hopkins Fulfillment Service, 2003), 17-42.
 * Rebecca Woods, *The Herds Shot Round the World: Native Breeds and the British Empire 1800-1900* (University of North Carolina Press, 2017): Introduction, Ch 1 & 4.
-* Francis Galton, *Inquiries Into Human Faculty and Its Development,* (1833): 1-27.
+* Francis Galton, *Inquiries Into Human Faculty and Its Development* (1833): 1-27.
 
 
 
@@ -79,7 +78,7 @@ Monday, Oct 7: <em class="u">Totalitarianism, Biopower, Technoscience</em>
 
 Thursday, Oct 10 Reading: 
 * Tiago Saraiva, *Fascist Pigs: Technoscientific Organisms and the History of Facism* (MIT Press, 2016), Introduction, 1-16.
-* Nicole Shukin – *Animal Capital: Rendering Life in Biopolitical Times,* (Duke University Press, 2009), exerpts from Introduction, and Ch 3, "Telemobility: Telecommunication's Animal Currencies."
+* Nicole Shukin, *Animal Capital: Rendering Life in Biopolitical Times* (Duke University Press, 2009), exerpts from Introduction, and Ch 3, "Telemobility: Telecommunication's Animal Currencies."
 * Michel Foucault, *Society Must be Defended,* lecture at Collége de France (March 17, 1976), 239-263.
 
 
@@ -93,7 +92,7 @@ Monday, Oct 14: <em class="u">Patenting "Model Organisms": Genetic Manipulation,
 
 
 Thursday, Oct 17 Reading:
-* Evelyn Fox-Keller, *Century of the Gene,* (Harvard University Press 2000), 1-10.
+* Evelyn Fox-Keller, *Century of the Gene* (Harvard University Press 2000), 1-10.
 * Karen Rader, *Making Mice* (Princeton University Press, 2004), excerpts.
 * Donna Haraway,"Mice into Wormholes: A Technoscience Fugue in Two Parts" in *Modest_Witness@Second_Millenium.FemaleMan Meets_OncoMouse* (Routledge, 1997), "Part 1: Kinship," excerpts.
 * Primary source: [[insert p source OncoMouse pic]]
@@ -111,8 +110,8 @@ Monday, Oct 21: <em class="u">Conservation Biopolitics, Rewilding, De-Extinction
 
 
 Thursday, Oct 24 Reading: 
-* Jamie Lorimer and Clemens Dresen, "From 'Nazi Cows' to Cosmopolitan 'Ecological Engineers': Specifying Rewilding Through a History of Heck Cattle," *Annals of the American Association of Geographers* (Vol 106 no 3, 2016): 631-652.
-* Elizabeth Hennessy, "Producing ‘prehistoric’ life: Conservation breeding and the remaking of wildlife genealogies," *Geoforum* (Vol 49, 2013), 71-80.
+* Jamie Lorimer and Clemens Dresen, "From 'Nazi Cows' to Cosmopolitan 'Ecological Engineers': Specifying Rewilding Through a History of Heck Cattle," *Annals of the American Association of Geographers* 106 no. 3 (2016): 631-652.
+* Elizabeth Hennessy, "Producing ‘prehistoric’ life: Conservation breeding and the remaking of wildlife genealogies" *Geoforum* 49 (2013): 71-80.
 
 Primary sources:
 * Peruse the Operation Taurus website: http://taurosprogramme.com/home/breeding-programme/
