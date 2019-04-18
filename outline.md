@@ -8,7 +8,7 @@
 Thursday, Sept 5: <em class="u">Course Introduction – “Why Look at Animals?"</em>
 
 Read: 
-* Berger, “Why Look at Animals?” from *About Looking* 1977, 1-28
+* Berger, “Why Look at Animals?” from *About Looking* 1977, 1-28.
 
 Further reading:
 Cary Wolfe, "'Animal Studies', Disciplinarity, and the [Post]Humanities" in *What is Posthumanism?* (University of Minnesota, 2010), 99-126.
@@ -25,10 +25,10 @@ Monday, Sept 9: <em class="u">Humans and Other Animals in the Enlightenment and 
 Thursday, Sept 12 Reading:
 
 *	Michel Foucault, *The Order of Things,* Chapter 5, “Classifying,” excerpts.
-*	Vanessa Watts, "Indigenous place-thought & agency amongst humans and non-humans (First Woman and Sky Woman go on a European world tour!," *Decolonization: Indigeneity, Education & Society* (Vol. 2,  No. 1,  2013): pp. 20-34.
+*	Vanessa Watts, "Indigenous place-thought & agency amongst humans and non-humans (First Woman and Sky Woman go on a European world tour!," *Decolonization: Indigeneity, Education & Society* (Vol. 2,  No. 1,  2013): 20-34.
 * Zakiyyah Iman Jackson, "Animal: New Directions in the Theorization of Race and Posthumanism," *Feminist Studies,*
-Vol. 39, No. 3 (2013): 669-685.
-*	Thomas Bewick, *A General History of Quadrupeds* 1790, excerpts.
+(Vol 39, no. 3, 2013): 669-685.
+*	Primary source: Thomas Bewick, *A General History of Quadrupeds* 1790, excerpts.
 
 
 
@@ -41,7 +41,7 @@ Monday, Sept 16: <em class="u">Species, Race, Science, Colonialism</em>
 Thursday Sept 19 Reading:
 *	Aimé Césaire, *Discourse on Colonialism,* (1955), 65-78.
 *	Micheal Banton, "The Idiom of Race: A critique of presentism," excerpts in *Theories of Race and Racism: A Reader,"* eds, Les Black and John Solomos, (Routledge, 2009), 55-67.
-*	Darwin, "Variation Under Domestication," in *On the Origin of Species,* (1859), excerpts.
+*	Primary source: Darwin, "Variation Under Domestication," in *On the Origin of Species,* (1859), excerpts.
 
 
 **Week 4**
@@ -98,7 +98,7 @@ Thursday, Oct 17 Reading:
 * Karen Rader, *Making Mice,* (Princeton University Press, 2004), excerpts.
 * Donna Haraway,"Mice into Wormholes: A Technoscience Fugue in Two Parts" in *Modest_Witness@Second_Millenium.FemaleMan Meets_OncoMouse* 1996, "Part 1: Kinship," excerpts.
 
-* [[insert p source OncoMouse pic]]
+* Primary source: [[insert p source OncoMouse pic]]
 
 ![alt text](images/oncomouse.jpeg "Logo Title Text 1")
 
@@ -116,6 +116,7 @@ Thursday, Oct 24 Reading:
 * Jamie Lorimer and Clemens Dresen, "From 'Nazi Cows' to Cosmopolitan 'Ecological Engineers': Specifying Rewilding Through a History of Heck Cattle," *Annals of the American Association of Geographers* (Vol 106 no 3, 2016): 631-652.
 * Elizabeth Hennessy, "Producing ‘prehistoric’ life: Conservation breeding and the remaking of wildlife genealogies," *Geoforum* (Vol 49, 2013), 71-80.
 
+Primary sources:
 * Peruse the Operation Taurus website: http://taurosprogramme.com/home/breeding-programme/
 * And the Rewilding Project website: https://rewildingeurope.com/rewilding-in-action/wildlife-comeback/tauros/ 
 
@@ -131,8 +132,7 @@ Monday, Oct 28: <em class="u">Heritage Breeds and Colonial Nostalgia</em>
 Thursday, Oct 31 Reading: 
 * Scott Magelssen, "Resuscitating the Extinct: The Backbreeding of Historic Animals at U.S. Living History Museums," *TDR* Vol. 47, no. 4 (Winter, 2003): pp. 98-109.
 * Rodney Harrison, "On Heritage Ontologies: Rethinking the Material Worlds of Heritage," *Anthropological Quarterly; Washington* (Vol 91 no. 4 Fall 2018): 1365-1383.
-
-Primary source: John Worrell, "How Do You Test History in a Lab?" *Rural Visitor,* (Vol XIX no. 1, 1974):4-6.
+* Primary source: John Worrell, "How Do You Test History in a Lab?" *Rural Visitor,* (Vol XIX no. 1, 1974):4-6.
 
 #### Unit 4: Cloning
 
