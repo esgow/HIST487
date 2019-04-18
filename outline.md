@@ -124,7 +124,9 @@ Recommended watching: https://www.kimstim.com/film/genesis-2-0/ - A 2018 documen
 **Week 9**
 
 Monday, Oct 28: <em class="u">Heritage Breeds and Colonial Nostalgia</em>
- 
+
+**Mix n’ Match Primary Source/Theory Analysis due at beginning of class**
+
 
 Thursday, Oct 31 Reading: 
 * Scott Magelssen, "Resuscitating the Extinct: The Backbreeding of Historic Animals at U.S. Living History Museums," *TDR* 47, no. 4 (Winter, 2003): 98-109.
